@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohitBedwal
-- 👀 I’m interested in working with python
-- 🌱 I’m currently learning django   
-- 💞️ I’m looking to collaborate on python related work
+- 👀 I’m interested in working with JavaScript
+- 🌱 I’m currently learning MERN STACK  
+- 💞️ I’m looking to collaborate on React.JS related work
 - 📫 You can reach me through my E-mail rohitbedwal09@gmail.com
 <!---
 RohitBedwal/RohitBedwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
