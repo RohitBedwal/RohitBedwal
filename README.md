@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitBedwal
-- 👀 I’m interested in working with JavaScript
-- 🌱 I’m currently learning MERN STACK  
+- 👀 I’m interested in working as software developer
+- 🌱 I’m done MERN STACK  
 - 💞️ I’m looking to collaborate on React.JS related work
 - 📫 You can reach me through my E-mail rohitbedwal09@gmail.com
 <!---
